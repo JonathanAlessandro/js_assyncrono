@@ -1,0 +1,26 @@
+{
+  "name": "js_assyncrono",
+  "version": "1.0.0",
+  "main": "server.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanAlessandro/js_assyncrono.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JonathanAlessandro/js_assyncrono/issues"
+  },
+  "homepage": "https://github.com/JonathanAlessandro/js_assyncrono#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
